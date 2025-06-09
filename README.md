@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Developing GPU accelerated computational fluid dynamics software using [Metal](https://developer.apple.com/metal/)
 
 <!--
