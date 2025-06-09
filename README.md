@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Developing GPU accelerated computational fluid dynamics software using [Metal](https://developer.apple.com/metal/)
+
 <!--
 **mksupreme92/mksupreme92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
