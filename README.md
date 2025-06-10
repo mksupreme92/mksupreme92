@@ -1,6 +1,7 @@
 ## Developing GPU accelerated multi-physics simulation software on [Metal](https://developer.apple.com/metal/)
 
-[Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html) ➡️ [Magneto-Hydro-Dyanamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
+[Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html)  
+[Magneto-Hydro-Dyanamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
 
 
 ## The Navier–Stokes Equations
