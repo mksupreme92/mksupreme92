@@ -36,8 +36,7 @@ This equation expresses Newton’s second law: the change in momentum equals the
 
 ### **Conservation of Energy**
 
-### $\frac{\partial (\rho e)}{\partial t} + \frac{\partial (\rho e + p) u_{i}}{\partial x_{i}} 
-= \frac{\partial (\tau_{ij} u_{j})}{\partial x_{i}} + \rho f_{i} u_{i} + \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r$
+### $\frac{\partial (\rho e)}{\partial t} + \frac{\partial (\rho e + p) u_{i}}{\partial x_{i}} = \frac{\partial (\tau_{ij} u_{j})}{\partial x_{i}} + \rho f_{i} u_{i} + \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r$  
 
 - $e$ = total energy per unit mass (internal + kinetic)  
 - $\dot{q}_i$ = heat flux vector  
