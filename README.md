@@ -5,7 +5,7 @@
 
 ## The Navier–Stokes Equations
 
-The Navier–Stokes equations describe the motion of a viscous fluid. They are derived from applying the fundamental conservation laws—mass, momentum, and energy—to a control volume. Below is the **index notation** form commonly used in CFD (Computational Fluid Dynamics) and MHD (Magnetohydrodynamics) applications.
+The Navier–Stokes equations describe the motion of a viscous fluid. They are derived from applying the fundamental conservation laws—mass, momentum, and energy—to a control volume geometrically described by a grid (2-dimensions) or mesh (3-dimensions). Below are the **index notation** forms commonly used in CFD and MHD applications.
 
 ---
 
@@ -36,7 +36,12 @@ This equation expresses Newton’s second law: the change in momentum equals the
 
 ### **Conservation of Energy**
 
-$\frac{\partial (\rho e)}{\partial t} + \frac{\partial[(\rho e + p) u_{i}]}{\partial x_{i}} = \frac{\partial(\tau_{ij} u_{j})}{\partial x_{i}} + \rho f_{i} u_{i} + \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r$
+### $
+\frac{\partial (\rho e)}{\partial t} + \frac{\partial \left[ (\rho e + p) u_{i} \right]}{\partial x_{i}} 
+= \frac{\partial (\tau_{ij} u_{j})}{\partial x_{i}} 
++ \rho f_{i} u_{i} 
++ \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r
+$
 
 - $e$ = total energy per unit mass (internal + kinetic)  
 - $\dot{q}_i$ = heat flux vector  
