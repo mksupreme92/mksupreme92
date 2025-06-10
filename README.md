@@ -1,6 +1,6 @@
 ### Developing GPU accelerated multi-physics simulation software on [Metal](https://developer.apple.com/metal/)
 
-#### Computational Fluid Dynamics (CFD) ➡️ Magneto-Hydro-Dyanamics (MHD)
+#### [Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html) ➡️ Magneto-Hydro-Dyanamics (MHD)
 
 <!--
 **mksupreme92/mksupreme92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
