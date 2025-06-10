@@ -1,9 +1,9 @@
-### Developing GPU accelerated multi-physics simulation software on [Metal](https://developer.apple.com/metal/)
+## Developing GPU accelerated multi-physics simulation software on [Metal](https://developer.apple.com/metal/)
 
-#### [Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html) ➡️ [Magneto-Hydro-Dyanamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
+### [Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html) ➡️ [Magneto-Hydro-Dyanamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
 
 
-The Navier-Stokes Equations  
+##The Navier-Stokes Equations  
 $\frac{\partial (\rho u_{i})}{\partial t} + \frac{\partial[\rho u_{i}u_{j}]}{\partial x_{j}} = -\frac{\partial p}{\partial x_{i}} + \frac{\partial \tau_{ij}}{\partial x_{j}} + \rho f_{i}$  
 
 $\frac{\partial (\rho e)}{\partial t} + (\rho e+p)\frac{\partial u_{i}}{\partial x_{i}} = \frac{\partial(\tau_{ij}u_{j})}{\partial x_{i}} + \rho f_{i}u_{i} + \frac{\partial(\dot{ q_{i}})}{\partial x_{i}} + r$  
