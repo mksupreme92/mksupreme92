@@ -11,9 +11,7 @@ The Navier–Stokes equations describe the motion of a viscous fluid. They are d
 
 ### **Conservation of Mass** (Continuity Equation)
 
-$\[
-\frac{\partial \rho}{\partial t} + \frac{\partial(\rho u_{i})}{\partial x_{i}} = 0
-\]$
+### $\frac{\partial \rho}{\partial t} + \frac{\partial(\rho u_{i})}{\partial x_{i}} = 0$
 
 - $\rho$ = fluid density  
 - $u_i$ = velocity component in the $i$-th spatial direction  
@@ -26,9 +24,7 @@ This equation ensures that mass is conserved across the domain.
 
 ### **Conservation of Momentum**
 
-$\[
-\frac{\partial (\rho u_{i})}{\partial t} + \frac{\partial(\rho u_{i}u_{j})}{\partial x_{j}} = -\frac{\partial p}{\partial x_{i}} + \frac{\partial \tau_{ij}}{\partial x_{j}} + \rho f_{i}
-\]$
+### $\frac{\partial (\rho u_{i})}{\partial t} + \frac{\partial(\rho u_{i}u_{j})}{\partial x_{j}} = -\frac{\partial p}{\partial x_{i}} + \frac{\partial \tau_{ij}}{\partial x_{j}} + \rho f_{i}$
 
 - $p$ = pressure  
 - $\tau_{ij}$ = viscous stress tensor  
@@ -40,9 +36,7 @@ This equation expresses Newton’s second law: the change in momentum equals the
 
 ### **Conservation of Energy**
 
-$\[
-\frac{\partial (\rho e)}{\partial t} + \frac{\partial[(\rho e + p) u_{i}]}{\partial x_{i}} = \frac{\partial(\tau_{ij} u_{j})}{\partial x_{i}} + \rho f_{i} u_{i} + \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r
-\]$
+$\frac{\partial (\rho e)}{\partial t} + \frac{\partial[(\rho e + p) u_{i}]}{\partial x_{i}} = \frac{\partial(\tau_{ij} u_{j})}{\partial x_{i}} + \rho f_{i} u_{i} + \frac{\partial \dot{q}_{i}}{\partial x_{i}} + r$
 
 - $e$ = total energy per unit mass (internal + kinetic)  
 - $\dot{q}_i$ = heat flux vector  
@@ -56,7 +50,6 @@ This equation ensures energy is conserved, accounting for work done by pressure 
 
 - **Einstein Summation Convention**: repeated indices (like $i$, $j$) imply summation over spatial dimensions.
 - In **3D space**, $i, j \in \{1, 2, 3\}$ correspond to $x$, $y$, and $z$.
-- Index notation is especially convenient for GPU-parallel implementations and tensor-based libraries.
 
 ---
 
