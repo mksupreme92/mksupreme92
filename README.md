@@ -9,7 +9,7 @@ The Navier–Stokes equations describe the motion of a viscous fluid. They are d
 
 ---
 
-### **Conservation of Mass** (Continuity Equation)
+### **Conservation of Mass**
 
 ### $\frac{\partial \rho}{\partial t} + \frac{\partial(\rho u_{i})}{\partial x_{i}} = 0$
 
