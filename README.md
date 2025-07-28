@@ -49,10 +49,10 @@ My interest in simulation continues, but now I’m focused on building the **geo
 ## 🧭 Long-Term Vision
 
 Build a modern design and simulation stack that:
-- Respects mathematics
-- Prioritizes clarity and composability
-- Runs on low-resource systems
-- Doesn't sell out to VC mediocrity
+- Respects foundational mathematics
+- Prioritizes utility, clarity, scalability, and user-friendlyness,  
+- Able to run everything from low-resource systems (eg. [Raspberry Pi](https://www.raspberrypi.com) to [high performance compute clusters](https://www.nvidia.com/en-us/glossary/high-performance-computing/)    
+- Doesn't sell out to mediocrity
 
 Let’s leave the world better engineered than we found it.
 
