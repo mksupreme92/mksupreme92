@@ -1,6 +1,4 @@
-# 🦅 Joseph Shaw Petersen
-
-I build foundational tools for simulation, geometry, and real-world design.
+### I build foundational tools for simulation, geometry, and real-world design.
 
 Currently focused on **[Euclid](https://github.com/mksupreme92/euclid)** — a modern geometry kernel written from first principles.  
 Lean, precise, and built to outlast bloated CAD giants.
@@ -57,4 +55,4 @@ Build a modern design and simulation stack that:
 Let’s leave the world better engineered than we found it.
 
 —
-🦅
+Joseph Shaw Petersen 🦅
