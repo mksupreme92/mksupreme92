@@ -49,7 +49,7 @@ My interest in simulation continues, but now I’m focused on building the **geo
 Build a modern design and simulation stack that:
 - Respects foundational mathematics
 - Prioritizes utility, clarity, scalability, and user-friendlyness,  
-- Able to run everything from low-resource systems (eg. [Raspberry Pi](https://www.raspberrypi.com) to [high performance compute clusters](https://www.nvidia.com/en-us/glossary/high-performance-computing/)    
+- Able to run everything from low-resource systems (eg. a [Raspberry Pi](https://www.raspberrypi.com)) to [high performance compute clusters](https://www.nvidia.com/en-us/glossary/high-performance-computing/)    
 - Doesn't sell out to mediocrity
 
 Let’s leave the world better engineered than we found it.
