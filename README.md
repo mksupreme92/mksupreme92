@@ -24,10 +24,11 @@ Inspired by mathematicians, powered by code, and engineered for clarity.
 
 Before Euclid, I worked on GPU-accelerated multiphysics solvers targeting Apple’s [Metal](https://developer.apple.com/metal/) API.
 
-This includes foundational work in:
+This includes work in:
 
 - 🌀 [Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html)  
 - 🔮 [Magneto-Hydrodynamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
+  - Note: Did not author these paper; including links for reference   
 
 I wrote low-level simulation code to solve the **Navier–Stokes equations** in index notation form, accounting for mass, momentum, and energy conservation.
 
