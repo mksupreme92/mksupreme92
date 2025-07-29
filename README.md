@@ -7,11 +7,11 @@ Lean, precise, and built to outlast bloated CAD giants.
 
 ## 🜁 Project Euclid
 
-**Euclid** is a modular, type-safe geometry kernel written in Haskell, designed to support:
+**Euclid** is a modular, type-safe geometry kernel written in Haskell and optimized with Rust, designed to support:
 - Arbitrary-dimensional geometry
 - Euclidean and non-Euclidean metrics
 - Transformation logic via extensible typeclasses
-- Rust-based meshing and visualization
+- Performant and memory safe meshing and visualization
 
 It is the backbone for my long-term vision of a flexible, open, and performance-aware design ecosystem.  
 Inspired by mathematicians, powered by code, and engineered for clarity.
