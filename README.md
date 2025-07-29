@@ -28,7 +28,7 @@ This includes work in:
 
 - 🌀 [Computational Fluid Dynamics (CFD)](https://www.grc.nasa.gov/www/k-12/airplane/nseqs.html)  
 - 🔮 [Magneto-Hydrodynamics (MHD)](https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics)
-  - Note: Did not author these paper; including links for reference   
+  - Note: Did not author these; including links for reference   
 
 I wrote low-level simulation code to solve the **Navier–Stokes equations** in index notation form, accounting for mass, momentum, and energy conservation.
 
