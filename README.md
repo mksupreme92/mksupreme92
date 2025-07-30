@@ -25,7 +25,7 @@ There are already sophisticated geometric design and meshing tools out there. So
 
 But now, I see it clearly: this work has the potential to transform the world.
 
-At this point, few people doubt the utility of Large Language Models (LLMs). They’ve achieved mainstream adoption and reshaped the way we write, work, and code — and they’ve done so at astonishing speed. Like many, I watch their evolution with a mixture of awe and apprehension. I hope — sincerely — that we as a species are wise and clear-headed enough to wield this technology ethically and responsibly.
+At this point, few people doubt the utility of Large Language Models (LLMs). They’ve achieved mainstream adoption and reshaped the way we write, work, and code — and they’ve done so at astonishing speed. Like many, I watch their evolution with a mixture of awe and apprehension. I hope — sincerely — that we are wise and clear-headed enough to wield this technology ethically and responsibly.
 
 But the next phase of AI — the one I envision — is different in both structure and scope.
 
