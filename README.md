@@ -74,5 +74,5 @@ That’s why I developed *Euclid*.
 - 🌐 Website: [ingeniumlegatus.com](https://ingeniumlegatus.com)
 - 🝊 Field Notes: [Ingenium Geo](https://ingeniumlegatus.com/ingenium-geo/)
 - 🜁 Project Euclid: [Euclid Repository](https://github.com/mksupreme92/euclid)
-![BSD License](https://img.shields.io/github/license/mksupreme92/euclid)
+![BSD 3-Clause License](https://img.shields.io/github/license/mksupreme92/euclid)
 ![Repo Size](https://img.shields.io/github/repo-size/mksupreme92/euclid)
