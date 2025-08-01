@@ -52,7 +52,7 @@ Just as Large Language Models rely on a deep structure of symbolic processing, p
 - A symbolic framework that treats form and function as first-class concepts  
 
 That’s what *Project Euclid* is.  
-It’s not a clone of existing CAD software. It’s a clean-slate reimagining — a kernel built for the future of design intelligence. One that can reason symbolically about space, transform geometry across dimensions, and serve as the backbone of a new class of AI models that don’t just understand the world's linguistic structure — they **also understand it's geometry**.
+It’s not a clone of existing CAD software. It’s a clean-slate reimagining — a kernel built for the future of design intelligence. One that can reason symbolically about space, transform geometry across dimensions, and serve as the backbone of a new class of AI models that don’t just understand the world's linguistic structure — they **also understand its geometry**.
 
 If we want AI to design infrastructure, invent materials, simulate physical systems, and generate manufacturable prototypes — then we must give it the tools to think geometrically.  
 We need to build the geometric counterpart to LLMs.
