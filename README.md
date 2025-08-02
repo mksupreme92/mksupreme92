@@ -14,7 +14,6 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 ---
 
 ## ✨ A Vision for the Next Phase of Artificial Intelligence  
-### *The Next Three Decades Hold Immense Promise*  
 **July 30, 2025**
 
 Last night, I gazed up through the sunroof of my RAV4 into a sky undisturbed by clouds. The Big Dipper (Ursa Major) and Little Dipper (Ursa Minor) stood out sharply against the dark — quiet sentinels of a cosmos both infinitely complex and improbably ordered. I was awestruck by the paradox: a universe driven by entropy and chaos, yet structured enough to present a remarkably consistent portrait of starlight night after night.
