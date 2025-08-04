@@ -12,7 +12,7 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 - 🎬 Rust Mesher/Renderer: High-performance visualiztion layer for Euclid.  
 
 
-![Trefoil Knot Mesh](https://raw.githubusercontent.com/mksupreme92/euclid/trefoil.png)  
+![Trefoil Knot Mesh](https://raw.githubusercontent.com/mksupreme92/euclid/main/trefoil.png)  
 
 ---
 
