@@ -9,7 +9,10 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 
 - 🜁 [**Project Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel for arbitrary-dimensional, non-Euclidean space — the brainstem for symbolic AI and Large Geometric Models (LGMs).
 - ✒️ **Elementa DSL** (coming soon): A Ruby–OCaml inspired domain-specific language for expressing geometric ideas fluently.
-- 🎬 Rust Mesher/Renderer: High-performance visualiztion layer for Euclid.
+- 🎬 Rust Mesher/Renderer: High-performance visualiztion layer for Euclid.  
+
+
+![Trefoil Knot Mesh](https://raw.githubusercontent.com/mksupreme92/euclid/trefoil.png)  
 
 ---
 
