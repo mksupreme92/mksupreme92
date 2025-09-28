@@ -7,7 +7,7 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 
 ## 🏗️ Currently Building
 
-- 🜁 [**Project Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel that works in arbitrary-dimensional space.
+- [**Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel that works in arbitrary-dimensional space.
 
 
 
