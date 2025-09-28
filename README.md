@@ -10,7 +10,7 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 - 🜁 [**Project Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel that works in arbitrary-dimensional space.
 
 
-![Trefoil Knot Mesh](https://raw.githubusercontent.com/mksupreme92/main/trefoil.png)  
+![Trefoil Knot Mesh](trefoil.png)  
 
 
 ---
