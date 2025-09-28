@@ -7,7 +7,7 @@ Welcome. I build tools that think geometrically — from multidimensional kernel
 
 ## 🏗️ Currently Building
 
-- 🜁 [**Project Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel for arbitrary-dimensional, non-Euclidean space — the brainstem for symbolic AI and Large Geometric Models (LGMs).
+- 🜁 [**Project Euclid**](https://github.com/mksupreme92/euclid): A modular geometry kernel that works in arbitrary-dimensional space.
 
 
 ![Trefoil Knot Mesh](https://raw.githubusercontent.com/mksupreme92/euclid-legacy-V1/main/trefoil.png)  
