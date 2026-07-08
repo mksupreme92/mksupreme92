@@ -1,7 +1,4 @@
 #  Joseph Shaw Petersen 🦅   
-*Building Foundational Design & Engineering Tools*
-
-Welcome. I build tools that think geometrically — from multidimensional kernels to symbolic design languages.
 
 ---
 
